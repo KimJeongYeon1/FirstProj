@@ -1,0 +1,25 @@
+[33mcommit 42fe34beba5a664f12cf1db628fe469b47119709[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mbranch2[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: jeongyeon.kim <jyj05281@gmail.com>
+Date:   Mon Dec 20 14:13:52 2021 +0900
+
+    branch1에 추가
+
+[33mcommit 4965ccd967c54c5f84c78e6685de553ecff18da4[m
+Author: jeongyeon.kim <jyj05281@gmail.com>
+Date:   Mon Dec 20 12:45:49 2021 +0900
+
+    Revert "현재 출력 구분을 하나 더 추가시킴"
+    
+    This reverts commit 9636e7b6cbf1ab4f9b5b044a5d452c7e70cf8a57.
+
+[33mcommit 9636e7b6cbf1ab4f9b5b044a5d452c7e70cf8a57[m
+Author: jeongyeon.kim <jyj05281@gmail.com>
+Date:   Mon Dec 20 11:12:44 2021 +0900
+
+    현재 출력 구분을 하나 더 추가시킴
+
+[33mcommit 03c6befd355725cb049f3a6e56c2f7089cb475b2[m
+Author: jeongyeon.kim <jyj05281@gmail.com>
+Date:   Mon Dec 20 10:26:38 2021 +0900
+
+    First git
